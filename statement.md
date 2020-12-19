@@ -1,11 +1,8 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+Correct the code so that it displays the correct output 'Hello World'
 
 ```python runnable
-print('Hello World!')
+print('Hello World!
 ```
 
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
